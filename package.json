@@ -1,0 +1,11 @@
+{
+  "name": "ArdenLin",
+  "version": "1.0.0",
+  "description": "Myself",
+  "main": "index.js",
+  "author": "ArdenLin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
